@@ -1,4 +1,4 @@
-    interface Resume {
+     interface Resume {
     id: string;
     companyName?: string;
     jobTitle?: string;
