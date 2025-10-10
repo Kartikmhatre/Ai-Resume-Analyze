@@ -1,5 +1,5 @@
 import { cn } from "~/lib/utils";
-import {
+import { 
   Accordion,
   AccordionContent,
   AccordionHeader,
@@ -160,4 +160,3 @@ const Details = ({ feedback }: { feedback: Feedback }) => {
 };
 
 export default Details;
- 
