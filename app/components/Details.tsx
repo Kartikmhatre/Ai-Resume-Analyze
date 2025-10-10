@@ -1,6 +1,6 @@
 import { cn } from "~/lib/utils";
-import { 
-  Accordion, 
+import {
+  Accordion,
   AccordionContent,
   AccordionHeader,
   AccordionItem,
